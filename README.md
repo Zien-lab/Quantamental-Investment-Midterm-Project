@@ -1,4 +1,4 @@
-# Quantamental Investment: Midterm-Project
+# Quantamental-Investment-Agent-Project
 
 ## Trading Strategy
 
